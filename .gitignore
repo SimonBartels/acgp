@@ -1,0 +1,13 @@
+*.tar.gz
+experiments/tests/baseline/mlruns
+experiments/tests/optimization/mlruns
+src/acgp.egg-info
+__pycache__
+results
+results_bounds
+venv
+figures
+bayesian_benchmarks/data
+passwordfile
+*.out
+experiments/experiments_pablo/figs/*

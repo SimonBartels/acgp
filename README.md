@@ -1,5 +1,5 @@
-# [Adaptive Cholesky Gaussian Process (ACGP)](https://arxiv.org/abs/2202.10769)
-Code files for the project on sublinear GP regression.
+# [Adaptive Cholesky Gaussian Process (AC&#9889; GP)](https://arxiv.org/abs/2202.10769)
+[Link](https://arxiv.org/abs/2202.10769) to accepted AISTATS'23 paper.
 
 ## Setup
 In the project folder:
