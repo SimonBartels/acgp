@@ -1,0 +1,6 @@
+[paths]
+data_path = ./../../datasets
+results_path = ./results/results.db
+
+[seeds]
+seed = 0
